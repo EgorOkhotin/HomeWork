@@ -1,0 +1,12 @@
+c:\users\работа\documents\visual studio 2015\Projects\Test_Simbirsoft\Test_Simbirsoft\bin\Debug\Test_Simbirsoft.exe.config
+C:\Users\Работа\Documents\Visual Studio 2015\Projects\Test_Simbirsoft\Test_Simbirsoft\bin\Debug\Test_Simbirsoft.exe
+C:\Users\Работа\Documents\Visual Studio 2015\Projects\Test_Simbirsoft\Test_Simbirsoft\bin\Debug\Test_Simbirsoft.pdb
+C:\Users\Работа\Documents\Visual Studio 2015\Projects\Test_Simbirsoft\Test_Simbirsoft\obj\Debug\Test_Simbirsoft.csprojResolveAssemblyReference.cache
+C:\Users\Работа\Documents\Visual Studio 2015\Projects\Test_Simbirsoft\Test_Simbirsoft\obj\Debug\Test_Simbirsoft.exe
+C:\Users\Работа\Documents\Visual Studio 2015\Projects\Test_Simbirsoft\Test_Simbirsoft\obj\Debug\Test_Simbirsoft.pdb
+C:\Users\Egor\Documents\Visual Studio 2015\Test_Simbirsoft\Test_Simbirsoft\bin\Debug\Test_Simbirsoft.exe.config
+C:\Users\Egor\Documents\Visual Studio 2015\Test_Simbirsoft\Test_Simbirsoft\obj\Debug\Test_Simbirsoft.exe
+C:\Users\Egor\Documents\Visual Studio 2015\Test_Simbirsoft\Test_Simbirsoft\obj\Debug\Test_Simbirsoft.pdb
+C:\Users\Egor\Documents\Visual Studio 2015\Test_Simbirsoft\Test_Simbirsoft\bin\Debug\Test_Simbirsoft.exe
+C:\Users\Egor\Documents\Visual Studio 2015\Test_Simbirsoft\Test_Simbirsoft\bin\Debug\Test_Simbirsoft.pdb
+C:\Users\Egor\Documents\Visual Studio 2015\Test_Simbirsoft\Test_Simbirsoft\obj\Debug\Test_Simbirsoft.csprojResolveAssemblyReference.cache
