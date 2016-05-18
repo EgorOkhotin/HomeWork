@@ -1,0 +1,15 @@
+C:\Users\Egor\Documents\Домашнее задание\11.05.2016\1\HomeWork\Test_Simbirsoft\bin\Debug\Test_Simbirsoft.exe.config
+C:\Users\Egor\Documents\Домашнее задание\11.05.2016\1\HomeWork\Test_Simbirsoft\obj\Debug\Test_Simbirsoft.exe
+C:\Users\Egor\Documents\Домашнее задание\11.05.2016\1\HomeWork\Test_Simbirsoft\obj\Debug\Test_Simbirsoft.pdb
+C:\Users\Egor\Documents\Домашнее задание\11.05.2016\1\HomeWork\Test_Simbirsoft\bin\Debug\Test_Simbirsoft.exe
+C:\Users\Egor\Documents\Домашнее задание\11.05.2016\1\HomeWork\Test_Simbirsoft\bin\Debug\Test_Simbirsoft.pdb
+C:\Users\Egor\Documents\Домашнее задание\11.05.2016\1\HomeWork\Test_Simbirsoft\obj\Debug\HomeWork.csprojResolveAssemblyReference.cache
+C:\Users\Егор\Documents\1\HomeWork\Test_Simbirsoft\bin\Debug\Test_Simbirsoft.exe.config
+C:\Users\Егор\Documents\1\HomeWork\Test_Simbirsoft\obj\Debug\Test_Simbirsoft.exe
+C:\Users\Егор\Documents\1\HomeWork\Test_Simbirsoft\obj\Debug\Test_Simbirsoft.pdb
+C:\Users\Егор\Documents\1\HomeWork\Test_Simbirsoft\bin\Debug\Test_Simbirsoft.exe
+C:\Users\Егор\Documents\1\HomeWork\Test_Simbirsoft\bin\Debug\Test_Simbirsoft.pdb
+C:\Users\Егор\Documents\1\HomeWork\Test_Simbirsoft\obj\Debug\HomeWork.csprojResolveAssemblyReference.cache
+C:\Users\Егор\Documents\3\HomeWork\Test_Simbirsoft\bin\Debug\Test_Simbirsoft.exe.config
+C:\Users\Егор\Documents\3\HomeWork\Test_Simbirsoft\obj\Debug\Test_Simbirsoft.exe
+C:\Users\Егор\Documents\3\HomeWork\Test_Simbirsoft\obj\Debug\Test_Simbirsoft.pdb

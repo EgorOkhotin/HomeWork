@@ -38,7 +38,7 @@ namespace HomeWork
         /// </summary>
         public void createHTMLFiles()
         {
-            Stack<string> dictionary = null;
+            Stack<string> dictionary = new Stack<string>();
             dictionaryGetWords(ref dictionary);
             if (dictionary == null) { dictionary.Push(" "); }
 
@@ -135,15 +135,13 @@ namespace HomeWork
                 string textDictionary = readerDictionary.ReadToEnd().ToString();
                 Regex seekWords = new Regex(@"[\wа-яА-я]*[\wа-яА-я]",RegexOptions.IgnoreCase);
                 MatchCollection dictionaryCollection = seekWords.Matches(textDictionary);
-                var dictionary1 = new Stack<string>();
                 for (int i = 0; i < dictionaryCollection.Count; i++)
                 {
-                    dictionary1.Push(dictionaryCollection[i].ToString());
+                    dictionary.Push(dictionaryCollection[i].ToString());
                    // Console.WriteLine(dictionaryCollection[i].ToString());
                 }
                 readerDictionary.Close();
                 dictionaryFile.Close();
-                dictionary = dictionary1;
             }
             catch(SecurityException)
             {

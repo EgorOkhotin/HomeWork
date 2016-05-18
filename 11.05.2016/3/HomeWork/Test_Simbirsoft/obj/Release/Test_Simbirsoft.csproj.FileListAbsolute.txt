@@ -1,0 +1,12 @@
+C:\Users\Egor\Documents\Visual Studio 2015\Test_Simbirsoft\Test_Simbirsoft\bin\Release\Test_Simbirsoft.exe.config
+C:\Users\Egor\Documents\Visual Studio 2015\Test_Simbirsoft\Test_Simbirsoft\bin\Release\Test_Simbirsoft.exe
+C:\Users\Egor\Documents\Visual Studio 2015\Test_Simbirsoft\Test_Simbirsoft\bin\Release\Test_Simbirsoft.pdb
+C:\Users\Egor\Documents\Visual Studio 2015\Test_Simbirsoft\Test_Simbirsoft\obj\Release\Test_Simbirsoft.csprojResolveAssemblyReference.cache
+C:\Users\Egor\Documents\Visual Studio 2015\Test_Simbirsoft\Test_Simbirsoft\obj\Release\Test_Simbirsoft.exe
+C:\Users\Egor\Documents\Visual Studio 2015\Test_Simbirsoft\Test_Simbirsoft\obj\Release\Test_Simbirsoft.pdb
+C:\Users\Egor\Desktop\Примеры\Исходный проект\Test_Simbirsoft\Test_Simbirsoft\bin\Release\Test_Simbirsoft.exe.config
+C:\Users\Egor\Desktop\Примеры\Исходный проект\Test_Simbirsoft\Test_Simbirsoft\obj\Release\Test_Simbirsoft.exe
+C:\Users\Egor\Desktop\Примеры\Исходный проект\Test_Simbirsoft\Test_Simbirsoft\obj\Release\Test_Simbirsoft.pdb
+C:\Users\Egor\Documents\Домашнее задание\11.05.2016\1\HomeWork\Test_Simbirsoft\bin\Release\Test_Simbirsoft.exe.config
+C:\Users\Egor\Documents\Домашнее задание\11.05.2016\1\HomeWork\Test_Simbirsoft\obj\Release\Test_Simbirsoft.exe
+C:\Users\Egor\Documents\Домашнее задание\11.05.2016\1\HomeWork\Test_Simbirsoft\obj\Release\Test_Simbirsoft.pdb

@@ -38,7 +38,7 @@ namespace HomeWork
         /// </summary>
         public void createHTMLFiles()
         {
-            HashSet<string> dictionary = null;
+            HashSet<string> dictionary = new HashSet<string>();
             dictionaryGetWords(ref dictionary);
             if (dictionary == null) { dictionary.Add(" "); }
 
@@ -111,8 +111,7 @@ namespace HomeWork
         /// <returns></returns>
         string changeText(ref string textLine, HashSet<string> dictionary)
         {
-            List<string> wordList = dictionary.ToList();
-            foreach(string word in wordList)
+            foreach(string word in dictionary)
             {
                 if(textLine.Contains(word))
                 {
@@ -136,13 +135,10 @@ namespace HomeWork
                 string textDictionary = readerDictionary.ReadToEnd().ToString();
                 Regex seekWords = new Regex(@"[\wа-яА-я]*[\wа-яА-я]",RegexOptions.IgnoreCase);
                 MatchCollection dictionaryCollection = seekWords.Matches(textDictionary);
-                HashSet<string> dictionary1 = new HashSet<string>();
-                for (int i = 1; i < dictionaryCollection.Count; i++)
+                for (int i = 0; i < dictionaryCollection.Count; i++)
                 {
-                    dictionary1.Add(dictionaryCollection[i].ToString());
-                   // Console.WriteLine(dictionaryCollection[i].ToString());
+                    dictionary.Add(dictionaryCollection[i].ToString());
                 }
-                dictionary = dictionary1;
                 readerDictionary.Close();
                 dictionaryFile.Close();
             }
